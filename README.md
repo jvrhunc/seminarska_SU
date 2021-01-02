@@ -2,7 +2,7 @@
  
  Seminarska naloga vsebuje primerjavo različnih metod spodbujevalnega učenja.
  
-## Implementirane metode:
+## Uporabljene metode:
 - Brez spodbujevalnega ucenja
 - Q-learning algoritem
 - Policy Iteration algoritem
