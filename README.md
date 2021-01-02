@@ -1,6 +1,6 @@
 ﻿# Seminarska naloga "Primerjava različnih metod spodbujevalnega učenje"
  
- Seminarska naloga vsebuje implementacijo različnih metod spodbujevalnega učenja.
+ Seminarska naloga vsebuje primerjavo različnih metod spodbujevalnega učenja.
  
 ## Implementirane metode:
 - Brez spodbujevalnega ucenja
