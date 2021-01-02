@@ -44,7 +44,7 @@ def value_iteration_algorithm(policy):
     
     return frames, timesteps, penalties, rewards
     
-def value_iteration(theta=0.0001, discount_factor=1.0, max_iterations=500):
+def value_iteration(theta=0.0001, discount_factor=1.0, max_iterations=10):
     
     env = get_env() # Vkljucimo nase okolje
     

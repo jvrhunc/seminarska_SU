@@ -50,7 +50,7 @@ def policy_iteration_algorithm(policy):
     
     return frames, timesteps, penalties, rewards
 
-def policy_eval(policy, env, discount_factor=1.0, theta=0.00001, max_iterations=500):
+def policy_eval(policy, env, discount_factor=1.0, theta=0.00001, max_iterations=10):
     
     V = np.zeros(env.nS) # Inicializiramo naso funkcijsko vrednost "V"
     
